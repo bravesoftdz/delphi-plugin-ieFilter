@@ -1,0 +1,1 @@
+![screenshot](ieFilter-hattrick.png)
